@@ -1,0 +1,147 @@
+ .who{
+
+  width: auto;
+  text-align: center;
+  border: 10px solid pink;
+  padding: auto;
+  margin: 120px;
+  font-size: 50px;
+  font-family:Brush Script MT ;
+  font-weight: bold;
+position: relative;
+}
+
+.janu{
+  background-color: pink;
+  width: auto;
+  text-align: center;
+  border: 15px solid pink;
+  padding: 50px;
+  margin: 20px;
+  font-size: 50px;
+  font-family:Brush Script MT ;
+  font-weight: bold;
+position: relative;
+
+}
+.shiv{
+	 font-height:50px;
+  font-family:Times New Roman;
+  font-weight: bold;
+  text-align: center;
+}
+.certification{
+	  background-color: aqua;
+  width: auto;
+  text-align: right;
+  border: 15px solid aqua;
+  padding: 50px;
+  margin: 20px;
+  font-size: 20px;
+  font-family:Brush Script MT ;
+  font-weight: bold;
+
+
+}
+.c1{
+	color: white;
+	font-size: 50px;
+	font-family: Old English Text MT;
+}
+.education{
+    background-color: lightgreen;
+  width: auto;
+  text-align: left;
+  border: 15px solid lightgreen;
+  padding: 25px;
+  margin: 12px;
+  font-size: 20px;
+  font-family:Algerian ;
+  font-weight: bold;
+
+
+}
+a.btn{
+  margin:30px 10px;
+  width:150px;
+  padding:10px;
+  border-radius: 20px;
+}
+.btn-first{
+  background-color: aqua;
+  color:#fff;
+  button-radius:2px;
+}
+table,td {
+  border: 2px solid white;
+  padding: 20px;
+  text-align: center;
+  position: relative;
+  color:white;
+  font-family: Times New Roman;
+  font-size:20px;
+  column-span: 20px;
+  
+}
+th{
+   border: 2px solid white;
+  padding: 200px;
+  margin: 45px;
+  text-align: center;
+  position: relative;
+  color:orange;
+  font-family: Times New Roman;
+  font-size:20px;
+  column-span: 20px;
+
+}
+.skills{
+   background-color: red;
+  width: auto;
+  text-align: left;
+  border: 15px solid red;
+  padding: 25px;
+  margin: 12px;
+  font-size: 20px;
+  font-family:Algerian ;
+  font-weight: bold;
+
+}
+.skills1{
+  background-color: magenta;
+  width: auto;
+  text-align: left;
+  border: 15px solid magenta;
+  padding: 25px;
+  margin: 12px;
+  font-size: 20px;
+  font-family:Algerian ;
+  font-weight: bold;
+
+
+}
+.hobbies{
+  background-color: orange;
+  width: auto;
+  text-align: left;
+  border: 15px solid orange;
+  padding: 25px;
+  margin: 12px;
+  font-size: 20px;
+  font-family:Algerian ;
+  font-weight: bold;
+
+
+}
+.hobbies1{
+  background-color: orange;
+  width: auto;
+  text-align: left;
+  border: 15px solid orange;
+  padding: 25px;
+  margin: 12px;
+  font-size: 20px;
+  font-family:Kristen ITC;
+  font-weight: bold;
+}
+
